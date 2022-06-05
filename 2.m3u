@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0, T
 https://js.deplayer.pw:30443/edge/ver3d212e1d216437ba2d24502a4768ad44/chunks.m3u8?nimblesessionid=8547&wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMjIgMTE6Mjc6MjAgUE0maGFzaF92YWx1ZT05N2R2WUVzRWk2OFozNHdIMjdsVmJ3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0, T 2
+https://ok.ru/video/3749388295816
