@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0, A
-http://waskteryaj.azureedge.net/live/NFL10/chunks.m3u8
+
 #EXTINF:0, F
+https://a.trybrian.click/nfl10.m3u8
 #EXTINF:0, 
